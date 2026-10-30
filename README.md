@@ -4,40 +4,18 @@
 
 Index of repositories for GitHub and repository management tools, automation utilities, and workflow helpers.
 
-*Last updated: 2026-03-25*
+**Last Updated:** October 2026
 
 ---
 
 ## Repository Management GUIs
-
-### AI-Repo-Manager
-AI app to enable smarter management of Github repositories
-
-[![GitHub](https://img.shields.io/badge/GitHub-AI--Repo--Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Repo-Manager)
 
 ### Open-That-Repo
 Utility for quickly opening a Github repo on your computer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Open--That--Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Open-That-Repo)
 
-### Linux-Github-Repo-Launcher
-Github repository search and quick launch utility preconfigured for VS Code & Windsurf
-
-[![GitHub](https://img.shields.io/badge/GitHub-Linux--Github--Repo--Launcher-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Github-Repo-Launcher)
-
----
-
 ## Repository Pruning & Cleanup
-
-### Github-Repo-Pruner
-Helps to discard old repositories from a local filesystem (for Linux)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Github--Repo--Pruner-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Repo-Pruner)
-
-### Remote-Github-Repo-Pruner
-CLI for pruning repos on the remote (ie, Github)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Remote--Github--Repo--Pruner-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Remote-Github-Repo-Pruner)
 
 ### To-Clone-Or-Not-To-Clone
 Interactive CLI for cloning your Github repos
@@ -47,16 +25,6 @@ Interactive CLI for cloning your Github repos
 ---
 
 ## Indexing & Documentation
-
-### OpenAI-Github-Repo-Index-Creator
-Simple script for creating a Github index using the OpenAI API
-
-[![GitHub](https://img.shields.io/badge/GitHub-OpenAI--Github--Repo--Index--Creator-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/OpenAI-Github-Repo-Index-Creator)
-
-### Docs-Grabber
-A quick utility for grabbing docs from Github repos
-
-[![GitHub](https://img.shields.io/badge/GitHub-Docs--Grabber-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Docs-Grabber)
 
 ### Github-To-OpenWebUI-Context-Pipeline
 Model data pipeline from a Github repository to Open Web UI knowledge using actions
